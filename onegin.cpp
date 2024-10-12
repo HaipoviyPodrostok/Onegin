@@ -101,6 +101,7 @@ int bubble_sort(const char* text [], int size) {
 
     return 1;
 
+int jsdfjhsjfhkjb;
 }
 
 
